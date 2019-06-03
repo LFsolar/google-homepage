@@ -1,0 +1,14 @@
+#logo {
+    display: block;
+    margin: auto;
+    margin-top: 120px;
+}
+
+#searchbar {
+    display: block;
+    margin: auto;
+    margin-top: 50px;
+    width: 50%;
+    height: 2em;
+    border-radius: 25px;
+}
